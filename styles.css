@@ -4557,6 +4557,10 @@ html {
     top: 295px;
   }
   
+  .features-card.is-fourth.is-para.is-blurry {
+    filter: blur(7px);
+  }
+  
   .features-card.first {
     align-items: flex-start;
     width: 40rem;
@@ -4599,6 +4603,10 @@ html {
     top: 280px;
   }
   
+  .features-card.is-third.is-para.is-blurry {
+    filter: blur(7px);
+  }
+  
   .features-card.is-second {
     align-items: flex-start;
     width: 40rem;
@@ -4638,6 +4646,10 @@ html {
     margin-bottom: 45px;
     padding: 0;
     top: 310px;
+  }
+  
+  .features-card.is-fith.is-para.is-blurry {
+    filter: blur(7px);
   }
   
   .cards_heading {
